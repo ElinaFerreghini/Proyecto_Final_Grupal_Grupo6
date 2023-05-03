@@ -42,7 +42,7 @@ Estamos emocionados de participar en este proyecto y contribuir a la prevención
 
 ## **Objetivos**
 
-Nuestro trabajo tiene como objetivo principal crear una base de datos depurada y estandarizada de sismos en conjunto con Estados Unidos y Japón para el país latinoamericano elegido. Para ello, implementaremos una serie de acciones concretas que nos permitan alcanzar las siguientes metas:
+Como ya hemos mencionado anteriormente, nuestro trabajo tiene como objetivo principal crear una base de datos depurada y estandarizada de sismos en conjunto con Estados Unidos y Japón para el país latinoamericano elegido. Para ello, implementaremos una serie de acciones concretas que nos permitan alcanzar las siguientes metas:
 
 1.Desarrollar una base de datos completa, que recoja y clasifique de manera estandarizada todos los datos relacionados con los sismos que ocurran en el país elegido.
 
