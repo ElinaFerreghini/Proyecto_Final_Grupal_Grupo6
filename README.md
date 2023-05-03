@@ -70,3 +70,36 @@ Además de las preguntas planteadas, es importante también tener en cuenta otro
 Teniendo en cuenta todos estos factores, optamos con incorporar a PAISSSSS a nuestro proyecto.
 
 
+
+## **Probables KPIs**
+
+Como empresa encargada de generar una base de datos de sismos y elaborar un sistema de clasificación de alertas, se pueden elaborar varios KPIS para medir el éxito y la eficacia, en principio para la elaboración de nuestro proyecto y posteriormente para el seguimiento del mismo una vez puesto en marcha. No está de más volver a aclarar que ésto es solo un análisis temprano, corrrespondiente a la primera visualización de los datos. Algunos de estos KPIS pueden ser:
+
+
+1.Precisión en la detección: Medición de la cantidad de sismos detectados correctamente y su concordancia con los registros de los demás países involucrados en la iniciativa.
+
+2.Tiempo de respuesta: Medición del tiempo que transcurre desde la detección de un sismo hasta la emisión de la alerta correspondiente.
+
+3.Tiempo de transmisión: Medición del tiempo desde la emisión de la alerta hasta la transmisión de la información a las autoridades correspondientes y su puesta en marcha de las acciones necesarias.
+
+4.Cobertura geográfica: Medición de la cantidad de áreas geográficas cubiertas por el sistema de alertas.
+
+5.Cantidad de alertas emitidas: Medición de la cantidad de alertas emitidas y su frecuencia.
+
+6.Nivel de peligrosidad asignado: Medición de la precisión de la asignación de los niveles de peligrosidad a cada sismo, comparando los datos reales con los niveles de peligrosidad asignados por el sistema de alertas.
+
+7.Accesibilidad: Medición del grado de accesibilidad a la información y herramientas de la base de datos y el sistema de alertas para los usuarios finales.
+
+
+Nos resulta fundamental destacar que si bien hemos planteado algunas posibles métricas, aún es temprano para decidir cuáles serán las más relevantes. Debemos recordar que todavía no disponemos de los datos definitivos, y que estamos en la etapa de análisis y exploración de los mismos.
+
+Es importante que en este momento nos enfoquemos en comprender en profundidad los datos, identificar patrones y características relevantes, y desarrollar modelos de análisis que nos permitan obtener información valiosa para la toma de decisiones.
+
+Por los mismos motivos, tampoco podemos establecer lapsos de tiempo para la implementación de los KPIs definitivos. Es importante que trabajemos en colaboración para asegurarnos de que nuestros objetivos estén claramente definidos y que nuestros esfuerzos se centren en alcanzarlos.
+
+Una vez que dispongamos de los datos definitivos y hayamos avanzado en el análisis, podremos determinar cuáles son los KPIs más relevantes y establecer un plan de acción para implementarlos de manera efectiva en nuestro sistema de alertas.
+
+
+
+
+
