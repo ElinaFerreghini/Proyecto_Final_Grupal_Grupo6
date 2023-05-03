@@ -40,55 +40,19 @@ Nos enfocaremos en implementar mecanismos de comunicación y alerta que puedan s
 Estamos emocionados de participar en este proyecto y contribuir a la prevención y mitigación de riesgos en las distintas comunidades. Trabajaremos para lograr nuestros objetivos y ofrecer resultados de calidad a todas las partes involucradas.
 
 
-## Como lo hacemos?
 
-### Enfoque 1 [Data Analysis focus]
+### Elección del país:
 
-Analizando profundamente la relacion de los sismos con otra u otras particularidades de su pais latinoamericano escogido.
+En el marco de nuestro proyecto tri-nacional con Estados Unidos y Japón, debíamos seleccionar un país latinoamericano con el cual trabajar. Los candidatos a considerar fueron Chile, Perú, Haití, México y Argentina. Ante la dificultad de decidir, optamos por plantearnos una serie de preguntas que nos permitieran elegir con criterio (es importante mencionar que consideramos que la elección del país debe basarse en criterios técnicos y científicos, y no en preferencias personales o políticas). Nos preguntamos: ¿Cuáles de estos países presentan mayor cantidad de sismos y de mayor intensidad en los últimos años? ¿Cuáles tienen mayor riesgo sísmico? ¿Existen bases de datos a las cuales podamos acceder? Y si las hay, ¿cuál de estos países cuenta con la mayor cantidad de registros de datos sísmicos?
 
-Ejemplos de lineas de investigacion (Solo para que se inspiren. Pueden divagar y escoger lo que se les ocurra, su mente es el limite!):
+En cuanto a los países mencionados, Chile y Perú son los que presentan mayor cantidad de sismos en Latinoamérica, con una frecuencia alta de sismos moderados a grandes. Ambos países se encuentran en una zona de alta actividad sísmica debido a la subducción de la placa de Nazca bajo la placa Sudamericana.
 
-- Sismicidad secundaria (después de un gran sismo) ¿cómo afecta? ¿Qué ha pasado? Se pueden anticipar medidas si es que hay algo sistemáticamente mal?
-- Es aconsejable que haya una reubicación de habitantes en zonas como CDMX que es sabido esta construida en una zona geológicamente inestable y con alta actividad sísmica?
-- Derribando (o acentuando) mitos: Tiene que ver el clima con la propensión a sismos de mayor “magnitud” y los cambios estacionales?
-- Efectos secundarios no deseables: Sismos y Tsunamis, Problemas en redes eléctricas, incendios…
+Por otro lado, México también es un país con una alta actividad sísmica debido a la interacción entre las placas de Cocos, Norteamérica y del Pacífico, y ha sufrido varios sismos de gran intensidad en las últimas décadas. Haití, aunque no es un país con una alta frecuencia de sismos, sí ha experimentado eventos sísmicos devastadores en el pasado, como el terremoto de 2010 que causó la muerte de más de 200,000 personas.
 
+Argentina, por su parte, presenta una actividad sísmica moderada, con algunos sismos de baja a moderada intensidad registrados en los últimos años. En cuanto a la disponibilidad de bases de datos, Chile, Perú y México cuentan con registros sísmicos bien documentados y organizados.
 
-Entregables tangibles minimos:
-Mapa de geolocalizacion de los sismos escogidos que contemple la actualizacion cada hora. 
-La informacion que debe tener DEBE ser la escogida en su analisis. NO debe ir informacion cientifica como: Magnitud, Profundidad si esta no esta explicada o se indica por que es relevante.
+Además de las preguntas planteadas, es importante también tener en cuenta otros factores como la infraestructura de comunicaciones y la capacidad de respuesta y atención a desastres por parte de las autoridades locales y nacionales. También es importante considerar el impacto socioeconómico que pueden tener los sismos en cada uno de los países mencionados.
+
+Teniendo en cuenta todos estos factores, optamos con incorporar a PAISSSSS a nuestro proyecto.
 
 
-### Enfoque 2 [Machine Learning Focus]
-
-Aplicar un modelo de clasificacion no supervisada. 
-La idea aqui NO sera predecir un sismo, sino, dadas las caracteristicas que tienen los sismos, clasificarlos segun patrones como Peligrosidad Media/Alta/Baja
-o cualquier enfoque que quieran aplicar.
-
-Entregables tangibles minimos:
-Presentacion de las etiquetas de clasificacion y performancia del modelo.
-
-- - -
-<p align="center">
-<img src= https://github.com/soyHenry/DS_LABS/blob/main/Proyectos/Proyectos%20Finales/Sistema%20de%20alertas%20sismicas/images/Contexto.png  height="500">
-</p>
-
-## **Datasets y fuentes complementarias**
-
-Fuentes de datos obligatorias:
-+ Estados Unidos https://earthquake.usgs.gov/fdsnws/event/1/
-+ Japon https://www.data.jma.go.jp/multi/quake/index.html?lang=es
-+ Observatorio Latinoamericano de su preferencia ***********
-
-Nota: El producto final debe tener en su etapa de *extraccion* los datos en formato JSON o GeoJSON. Formatos de texto como CSV podrian usarse en los pasos intermedios para hacer sus test respectivos de ser necesario, pero no seran admitidos en la entrega final.
-
-Fuentes de datos alternativas
-+ Ejemplo de inspiracion de ciencia para la sociedad: https://twitter.com/cfariasvega/status/1586112199524614144?t=ZI428WweSDDuG_m_uWhlDg&s=19
-
-Exitos!! <3
-
-<img src = "https://blog.alertandote.com/wp-content/uploads/2018/04/Scared-Marge-Simpson-GIF-downsized_large.gif" height = 200>
-
-## Disclaimer  
-De parte del equipo de Henry se quiere aclarar y remarcar que los fines de los proyectos propuestos son exclusivamente pedagógicos, con el objetivo de realizar proyectos que simulen un entorno laboral, en el cual se trabajen diversas temáticas ajustadas a la realidad.
- No reflejan necesariamente la filosofía y valores de la organización. Además, Henry no alienta ni tampoco recomienda a los alumnos y/o cualquier persona leyendo los repositorios (y entregas de proyectos) que tomen acciones en base a los datos que pudieran o no haber recabado. Toda la información expuesta y resultados obtenidos en los proyectos, nunca deben ser tomados en cuenta para la toma real de decisiones (especialmente en la temática de finanzas, salud, política, etc.).
