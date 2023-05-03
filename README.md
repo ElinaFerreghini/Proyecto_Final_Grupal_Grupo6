@@ -40,6 +40,20 @@ Nos enfocaremos en implementar mecanismos de comunicación y alerta que puedan s
 Estamos emocionados de participar en este proyecto y contribuir a la prevención y mitigación de riesgos en las distintas comunidades. Trabajaremos para lograr nuestros objetivos y ofrecer resultados de calidad a todas las partes involucradas.
 
 
+## **Objetivos**
+
+Nuestro trabajo tiene como objetivo principal crear una base de datos depurada y estandarizada de sismos en conjunto con Estados Unidos y Japón para el país latinoamericano elegido. Para ello, implementaremos una serie de acciones concretas que nos permitan alcanzar las siguientes metas:
+
+1.Desarrollar una base de datos completa, que recoja y clasifique de manera estandarizada todos los datos relacionados con los sismos que ocurran en el país elegido.
+
+2.Crear un sistema de alerta temprana que permita comunicar a la comunidad civil de manera efectiva y en un lenguaje fácilmente interpretable los datos de los sismos, incluyendo su peligrosidad asociada.
+
+3.Implementar mecanismos de comunicación eficaces entre las autoridades de los tres países participantes para lograr una comunicación efectiva y coordinada durante los eventos sísmicos.
+
+4.Realizar análisis de los datos recolectados para generar información valiosa que permita a las autoridades del país elegido tomar decisiones informadas y oportunas en relación a la prevención y mitigación de los efectos de los sismos.
+
+5.Elaborar un sistema de clasificación de peligrosidad que permita a las autoridades del país elegido tomar decisiones y acciones concretas ante los diferentes niveles de riesgo asociados a los sismos.
+
 
 ### Elección del país:
 
@@ -56,16 +70,3 @@ Además de las preguntas planteadas, es importante también tener en cuenta otro
 Teniendo en cuenta todos estos factores, optamos con incorporar a PAISSSSS a nuestro proyecto.
 
 
-## **Objetivos**
-
-Nuestro trabajo tiene como objetivo principal crear una base de datos depurada y estandarizada de sismos en conjunto con Estados Unidos y Japón para el país latinoamericano elegido. Para ello, implementaremos una serie de acciones concretas que nos permitan alcanzar las siguientes metas:
-
-1.Desarrollar una base de datos completa, que recoja y clasifique de manera estandarizada todos los datos relacionados con los sismos que ocurran en el país elegido.
-
-2.Crear un sistema de alerta temprana que permita comunicar a la comunidad civil de manera efectiva y en un lenguaje fácilmente interpretable los datos de los sismos, incluyendo su peligrosidad asociada.
-
-3.Implementar mecanismos de comunicación eficaces entre las autoridades de los tres países participantes para lograr una comunicación efectiva y coordinada durante los eventos sísmicos.
-
-4.Realizar análisis de los datos recolectados para generar información valiosa que permita a las autoridades del país elegido tomar decisiones informadas y oportunas en relación a la prevención y mitigación de los efectos de los sismos.
-
-5.Elaborar un sistema de clasificación de peligrosidad que permita a las autoridades del país elegido tomar decisiones y acciones concretas ante los diferentes niveles de riesgo asociados a los sismos.
