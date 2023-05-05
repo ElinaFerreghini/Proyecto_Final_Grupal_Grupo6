@@ -55,6 +55,34 @@ Como ya hemos mencionado anteriormente, nuestro trabajo tiene como objetivo prin
 5.Elaborar un sistema de clasificación de peligrosidad que permita a las autoridades del país elegido tomar decisiones y acciones concretas ante los diferentes niveles de riesgo asociados a los sismos.
 
 
+## **Alcances**
+
+Para el objetivo de desarrollar una base de datos completa y estandarizada:
+Identificar las fuentes de información existentes y determinar su calidad y fiabilidad.
+Establecer un proceso de recolección, clasificación y almacenamiento de los datos.
+Diseñar un formato de registro de datos estandarizado y acorde a las normas internacionales.
+
+Para el objetivo de crear un sistema de alerta temprana:
+Identificar los parámetros que permitan determinar la peligrosidad de los sismos.
+Establecer los criterios para la emisión de alertas tempranas.
+Definir los canales de comunicación con la comunidad civil y la forma en que se comunicará la información.
+
+Para el objetivo de implementar mecanismos de comunicación eficaces:
+Definir los roles y responsabilidades de las autoridades de los tres países.
+Establecer los canales de comunicación y coordinación entre las autoridades.
+Diseñar un plan de comunicación que permita una respuesta coordinada y efectiva durante los eventos sísmicos.
+
+Para el objetivo de realizar análisis de los datos recolectados:
+Desarrollar metodologías de análisis de los datos.
+Determinar los indicadores de peligrosidad y su relación con los eventos sísmicos.
+Presentar la información recolectada en reportes y documentos que permitan su interpretación.
+
+Para el objetivo de elaborar un sistema de clasificación de peligrosidad:
+Establecer los criterios de clasificación de la peligrosidad.
+Diseñar un sistema de alerta temprana que incluya la clasificación de peligrosidad.
+Definir las acciones que se deben tomar en función del nivel de peligrosidad identificado.
+
+
 ### Elección del país:
 
 En el marco de nuestro proyecto tri-nacional con Estados Unidos y Japón, debíamos seleccionar un país latinoamericano con el cual trabajar. Los candidatos a considerar fueron Chile, Perú, Haití, México y Argentina. Ante la dificultad de decidir, optamos por plantearnos una serie de preguntas que nos permitieran elegir con criterio (es importante mencionar que consideramos que la elección del país debe basarse en criterios técnicos y científicos, y no en preferencias personales o políticas). Nos preguntamos: ¿Cuáles de estos países presentan mayor cantidad de sismos y de mayor intensidad en los últimos años? ¿Cuáles tienen mayor riesgo sísmico? ¿Existen bases de datos a las cuales podamos acceder? Y si las hay, ¿cuál de estos países cuenta con la mayor cantidad de registros de datos sísmicos?
@@ -67,7 +95,7 @@ Argentina, por su parte, presenta una actividad sísmica moderada, con algunos s
 
 Además de las preguntas planteadas, es importante también tener en cuenta otros factores como la infraestructura de comunicaciones y la capacidad de respuesta y atención a desastres por parte de las autoridades locales y nacionales. También es importante considerar el impacto socioeconómico que pueden tener los sismos en cada uno de los países mencionados.
 
-Teniendo en cuenta todos estos factores, optamos con incorporar a PAISSSSS a nuestro proyecto.
+Teniendo en cuenta todos estos factores, optamos con incorporar a Perú a nuestro proyecto.
 
 
 
